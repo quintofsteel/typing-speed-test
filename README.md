@@ -6,7 +6,8 @@ An app that calculates your typing speed in words per minute and also providing 
 
 ## Screenshots
 
-![App Screenshot](Assets/speed.png)(Assets/speed2.png)
+![App Screenshot](Assets/speed.png)
+![App Screenshot](Assets/speed2.png)
 
 
 ## Author
